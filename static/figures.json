@@ -1,0 +1,32 @@
+{
+    "firstRow": {
+        "name": "pawn"
+    },
+    "secondRow": [
+        
+        {
+            "name": "rook"
+        },
+        {
+            "name": "knight"
+        },
+        {
+            "name": "bishop"
+        },
+        {
+            "name": "queen"
+        },
+        {
+            "name": "king"
+        },
+        {
+            "name": "bishop"
+        },
+        {
+            "name": "knight"
+        },
+        {
+            "name": "rook"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "figureName": "pawn",
+    "moves": [
+      "*-top", "1-bottom"
+    ]
+  }
+]

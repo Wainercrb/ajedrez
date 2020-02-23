@@ -1,0 +1,42 @@
+[
+  {
+    "figureName": "pawn-bottom",
+    "movement": [
+      {
+        "direccion": "moveToBottom",
+        "length": 1,
+        "action": "onlyMove"
+      },
+      {
+        "direccion": "moveToBottomRigth",
+        "length": 1,
+        "action": "catch"
+      },
+      {
+        "direccion": "moveToBottomLeft",
+        "length": 1,
+        "action": "catch"
+      }
+    ]
+  },
+  {
+    "figureName": "pawn-top",
+    "movement": [
+      {
+        "direccion": "moveToTop",
+        "length": 1,
+        "action": "onlyMove"
+      },
+      {
+        "direccion": "moveToTopRigth",
+        "length": 1,
+        "action": "catch"
+      },
+      {
+        "direccion": "moveToTopLeft",
+        "length": 1,
+        "action": "catch"
+      }
+    ]
+  }
+]
